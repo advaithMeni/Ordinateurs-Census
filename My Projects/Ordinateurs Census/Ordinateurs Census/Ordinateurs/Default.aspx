@@ -5,7 +5,7 @@
         <div class="content-wrapper">
             <hgroup class="title">
                 <h1>Description:<br /></h1>
-                <h2>Let us see how to jump-start with our Ordinateurs Census&quot;.</h2>
+                <h2>Let us see how to jump-start with our &quot;Ordinateurs Census&quot;.</h2>
             </hgroup>
             <p>
                 &quot;Ordinateurs&quot; is a French translation of the word computers. &quot;Census&quot; means typically recording various details of individuals. In this case we deal with recording the details of components in a computer at a particular lab.</p>

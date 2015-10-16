@@ -3,7 +3,7 @@
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <hgroup class="title">
         <%--<h1><%: Title %>.<br /></h1>--%>
-        <h1>Description about the website::</h1>
+        <h1>Description about the website:</h1>
     </hgroup>
 
     <article>
